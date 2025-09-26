@@ -1,4 +1,4 @@
-# projeto-quarta
+# projeto-sexta
 Projeto Persistência Poliglota (SQLite + MongoDB)
 
 Este projeto demonstra o uso de persistência poliglota, integrando dois bancos de dados diferentes:
